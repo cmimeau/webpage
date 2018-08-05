@@ -2,6 +2,7 @@ title: Chloé Mimeau
 description: Maître de conférences. Laboratoire M2N, CNAM Paris
 github:
   teaching: https://cmimeau.github.io/webpage/teaching.html
+  research: https://cmimeau.github.io/webpage/research.html
 plugins:
   - jekyll-seo-tag
 theme: jekyll-theme-dinky
