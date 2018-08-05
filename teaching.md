@@ -2,8 +2,8 @@
 layout: default
 ---
 
-## Welcome to teaching page
+## Teaching
 
-_List of lectures_
+_Page under construction_
 
-[back](./)
+[back to home page](./)
