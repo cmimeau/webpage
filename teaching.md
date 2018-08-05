@@ -4,6 +4,6 @@ layout: default
 
 ## Welcome to teaching page
 
-_yay_
+_List of lectures_
 
 [back](./)
