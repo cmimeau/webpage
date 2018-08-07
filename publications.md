@@ -10,9 +10,9 @@ layout: default
 
 * C Mimeau, G.-H Cottet and I. Mortazavi. Direct numerical simulations of three-dimensional flows past obstacles with a vortex penalization method. _Computers and Fluids_, 2016, 136, pp.331-347.
 
-* C. Mimeau , F. Gallizio, I. Mortazavi and G.-H. Cottet. Vortex penalization method for bluff body flows. _Intern. Journal for Numerical Methods in Fluids_, 2015, 79, pp. 53-83.
+* C. Mimeau, F. Gallizio, I. Mortazavi and G.-H. Cottet. Vortex penalization method for bluff body flows. _Intern. Journal for Numerical Methods in Fluids_, 2015, 79, pp. 53-83.
 
-* C. Mimeau , I. Mortazavi and G.-H. Cottet. Passive Flow Control Around a Semi-Circular Cylinder Using Porous Coatings. _Intern. Journal of Flow Control_, 2014, 6(1), pp. 43-60.
+* C. Mimeau, I. Mortazavi and G.-H. Cottet. Passive Flow Control Around a Semi-Circular Cylinder Using Porous Coatings. _Intern. Journal of Flow Control_, 2014, 6(1), pp. 43-60.
 
 * M. Gazolla, C. Mimeau, A.A. Tchieu and P. Koumoutsakos. Flow mediated interactions between two cylinders at finite Re numbers. _Phys. Fluids_, 2012, 24, 043103; doi: 10.1063/1.4704195.
 
