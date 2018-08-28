@@ -6,7 +6,7 @@ layout: default
 
 ### International journals 
 
-* C. Mimeau, G.-H. Cottet and I. Mortazavi. Passive control of the flow around a hemisphere using porous media. _European Journal of Mechanics - B/Fluids_, 2017, 65, pp.213-226 [[pdf HAL]](https://hal.archives-ouvertes.fr/hal-01483400/document), [[Bibtex ref]] (https://hal.archives-ouvertes.fr/hal-01483400v1/bibtex).
+* C. Mimeau, G.-H. Cottet and I. Mortazavi. Passive control of the flow around a hemisphere using porous media. _European Journal of Mechanics - B/Fluids_, 2017, 65, pp.213-226 [[pdf HAL]](https://hal.archives-ouvertes.fr/hal-01483400/document), [[Bibtex ref]](https://hal.archives-ouvertes.fr/hal-01483400v1/bibtex).
 
 * C Mimeau, G.-H Cottet and I. Mortazavi. Direct numerical simulations of three-dimensional flows past obstacles with a vortex penalization method. _Computers and Fluids_, 2016, 136, pp.331-347 [[pdf HAL]](https://hal.archives-ouvertes.fr/hal-01855265/document), [[Bibtex ref]](https://hal.archives-ouvertes.fr/hal-01855265v1/bibtex).
 
