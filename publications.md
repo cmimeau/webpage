@@ -18,7 +18,7 @@ layout: default
 [[pdf]](assets/images/Mimeau_et_al_IJFC14.pdf), [[Bibtex ref]](https://hal.archives-ouvertes.fr/hal-01192693v1/bibtex).
 
 * M. Gazolla, C. Mimeau, A.A. Tchieu and P. Koumoutsakos. Flow mediated interactions between two cylinders at finite Re numbers. _Phys. Fluids_, 2012, 24, 043103; doi: 10.1063/1.4704195  
-[pdf](assets/images/PhysFluids_24_043103.pdf).
+[[pdf]](assets/images/PhysFluids_24_043103.pdf).
 
 
 [back to home page](./)
