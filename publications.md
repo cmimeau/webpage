@@ -12,9 +12,9 @@ layout: default
 
 * C. Mimeau, F. Gallizio, I. Mortazavi and G.-H. Cottet. Vortex penalization method for bluff body flows. _Intern. Journal for Numerical Methods in Fluids_, 2015, 79, pp. 53-83.
 
-* C. Mimeau, I. Mortazavi and G.-H. Cottet. Passive Flow Control Around a Semi-Circular Cylinder Using Porous Coatings. _Intern. Journal of Flow Control_, 2014, 6(1), pp. 43-60 [pdf HAL](assets/images/Mimeau_et_al_IJFC14.pdf).
+* C. Mimeau, I. Mortazavi and G.-H. Cottet. Passive Flow Control Around a Semi-Circular Cylinder Using Porous Coatings. _Intern. Journal of Flow Control_, 2014, 6(1), pp. 43-60 [pdf](assets/images/Mimeau_et_al_IJFC14.pdf).
 
-* M. Gazolla, C. Mimeau, A.A. Tchieu and P. Koumoutsakos. Flow mediated interactions between two cylinders at finite Re numbers. _Phys. Fluids_, 2012, 24, 043103; doi: 10.1063/1.4704195 [pdf HAL](assets/images/PhysFluids_24_043103.pdf).
+* M. Gazolla, C. Mimeau, A.A. Tchieu and P. Koumoutsakos. Flow mediated interactions between two cylinders at finite Re numbers. _Phys. Fluids_, 2012, 24, 043103; doi: 10.1063/1.4704195 [pdf](assets/images/PhysFluids_24_043103.pdf).
 
 
 [back to home page](./)
