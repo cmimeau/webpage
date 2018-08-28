@@ -36,16 +36,11 @@ layout: default
 
 * Organizer of a mini-symposium on Lagrangian methods at 44th CANUM conference (Congrès national d'Analyse NUMérique), Cap d'Adge, France, 28 may-1 june 2018.
 
-* EUROMECH SYMPOSIUM n°591, 3-D Instability Mechanisms in Transitional and Turbulent Flows, Bari, Italy, 8–20 September 2017. 
-
-* Invited speaker for a seminar in Prof. Kornev's research team at University of Rostock, Germany, 13 July 2017.
-
-* 7th International Conference on Vortex Flows and Vortex Models (ICVFM 2016), Rostock, Germany, 19–22 September 2016.
-
-* Workshop on Fluid Structure Interactions, Grenoble, France, 24-25 November 2014.
-
-* Workshop on Cartesian grid, Level-Set & Immersed boundary, Bordeaux, France, 25-27 March 2014.
-
+* EUROMECH SYMPOSIUM n°591, 3-D Instability Mechanisms in Transitional and Turbulent Flows, Bari, Italy, 8–20 September 2017.   
+* Invited speaker for a seminar in Prof. Kornev's research team at University of Rostock, Germany, 13 July 2017.  
+* 7th International Conference on Vortex Flows and Vortex Models (ICVFM 2016), Rostock, Germany, 19–22 September 2016.  
+* Workshop on Fluid Structure Interactions, Grenoble, France, 24-25 November 2014.  
+* Workshop on Cartesian grid, Level-Set & Immersed boundary, Bordeaux, France, 25-27 March 2014.  
 * EUROMECH / ERCOFTAC Colloquium 549, Immersed Boundary Methods: Current Status and Future Research Directions, Leiden, The Netherlands, 17-19 June 2013.
 
 
