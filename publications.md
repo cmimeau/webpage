@@ -12,7 +12,8 @@ layout: default
 * C. Mimeau, G.-H Cottet and I. Mortazavi. Direct numerical simulations of three-dimensional flows past obstacles with a vortex penalization method. _Computers and Fluids_, 2016, 136, pp.331-347  
 [[pdf HAL]](https://hal.archives-ouvertes.fr/hal-01855265/document), [[Bibtex ref]](https://hal.archives-ouvertes.fr/hal-01855265v1/bibtex).
 
-* C. Mimeau, F. Gallizio, I. Mortazavi and G.-H. Cottet. Vortex penalization method for bluff body flows. _Intern. Journal for Numerical Methods in Fluids_, 2015, 79, pp. 53-83.
+* C. Mimeau, F. Gallizio, I. Mortazavi and G.-H. Cottet. Vortex penalization method for bluff body flows. _Intern. Journal for Numerical Methods in Fluids_, 2015, 79, pp. 53-83.  
+[[pdf HAL]](https://hal.archives-ouvertes.fr/hal-01863634/document), [[Bibtex ref]](https://hal.archives-ouvertes.fr/hal-01863634v1/bibtex).
 
 * C. Mimeau, I. Mortazavi and G.-H. Cottet. Passive Flow Control Around a Semi-Circular Cylinder Using Porous Coatings. _Intern. Journal of Flow Control_, 2014, 6(1), pp. 43-50  
 [[pdf HAL]](https://hal.archives-ouvertes.fr/hal-01215305/document), [[Bibtex ref]](https://hal.archives-ouvertes.fr/hal-01215305v1/bibtex).
