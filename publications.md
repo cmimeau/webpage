@@ -43,5 +43,10 @@ layout: default
 * Workshop on Cartesian grid, Level-Set & Immersed boundary, Bordeaux, France, 25-27 March 2014.  
 * EUROMECH / ERCOFTAC Colloquium 549, Immersed Boundary Methods: Current Status and Future Research Directions, Leiden, The Netherlands, 17-19 June 2013.
 
+## PhD thesis
+
+C. Mimeau, Conception et mise en oeuvre de méthodes vortex hybrides-frontières immergées pour des milieux solides-fluides-poreux. Application au contrôle passif d'écoulements, PhD thesis, University of Grenoble-Alpes, France.  
+[[pdf HAL]](https://tel.archives-ouvertes.fr/tel-01178939/document), [[Bibtex ref]](https://hal.archives-ouvertes.fr/tel-01178939v1/bibtex).
+
 
 [back to home page](./)
