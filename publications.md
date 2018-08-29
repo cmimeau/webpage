@@ -2,7 +2,12 @@
 layout: default
 ---
 
-## Publications (with review commitee)
+[Publications](#articles)
+[Talks in conferences and seminars](#talks)
+[PhD thesis](#phd)
+
+
+## Publications (with review commitee)<a name="articles"></a>
 
 ### International journals 
 
@@ -33,7 +38,7 @@ layout: default
 
 * C. Mimeau , I. Mortazavi and G.-H. Cottet. Vortex Penalization Method for Solid-Porous-Fluid Media With Application to Passive Flow Control. ASME / FEDSM Fluids Engineering Summer Meeting Symposium on Development and Applications of Immersed Boundary Methods, pp. V01AT08A002, doi:10.1115/FEDSM2013-16382, Nevada, USA, 7-11 July 2013. 
 
-## Talks in conferences, workshops and seminars (without review commitee)
+## Talks in conferences and seminars (without review commitee)<a name="talks"></a>
 
 * Organizer of a mini-symposium on Lagrangian methods at 44th CANUM conference (Congrès national d'Analyse NUMérique), Cap d'Adge, France, 28 may-1 june 2018.  
 * EUROMECH SYMPOSIUM n°591, 3-D Instability Mechanisms in Transitional and Turbulent Flows, Bari, Italy, 8–20 September 2017.   
@@ -43,7 +48,7 @@ layout: default
 * Workshop on Cartesian grid, Level-Set & Immersed boundary, Bordeaux, France, 25-27 March 2014.  
 * EUROMECH / ERCOFTAC Colloquium 549, Immersed Boundary Methods: Current Status and Future Research Directions, Leiden, The Netherlands, 17-19 June 2013.
 
-## PhD thesis
+## PhD thesis<a name="phd"></a>
 
 C. Mimeau, Conception et mise en oeuvre de méthodes vortex hybrides-frontières immergées pour des milieux solides-fluides-poreux. Application au contrôle passif d'écoulements, _PhD thesis_, University of Grenoble-Alpes, France.  
 [[pdf HAL]](https://tel.archives-ouvertes.fr/tel-01178939/document), [[Bibtex ref]](https://hal.archives-ouvertes.fr/tel-01178939v1/bibtex).
