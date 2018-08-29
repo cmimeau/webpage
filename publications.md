@@ -45,7 +45,7 @@ layout: default
 
 ## PhD thesis
 
-C. Mimeau, Conception et mise en oeuvre de méthodes vortex hybrides-frontières immergées pour des milieux solides-fluides-poreux. Application au contrôle passif d'écoulements, PhD thesis, University of Grenoble-Alpes, France.  
+C. Mimeau, Conception et mise en oeuvre de méthodes vortex hybrides-frontières immergées pour des milieux solides-fluides-poreux. Application au contrôle passif d'écoulements, _PhD thesis_, University of Grenoble-Alpes, France.  
 [[pdf HAL]](https://tel.archives-ouvertes.fr/tel-01178939/document), [[Bibtex ref]](https://hal.archives-ouvertes.fr/tel-01178939v1/bibtex).
 
 
