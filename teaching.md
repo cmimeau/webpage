@@ -35,10 +35,8 @@ Un carnet Jupyter (notebooks en anglais) se présente sous la forme d'une feuill
   - et surtout du **code exécutable** : les langages disponibles sous Jupyter sont multiples : Python, R, C, C++, matlab, ...  
 De plus ce document unique peut ensuite être exporté au format pdf ou html ou bien encore être présenté sous la forme de transparents de cours dynamiques. Les carnets Jupyter représentent donc un format idéal pour les TP numériques, que ce soit pour l'enseignant (rédaction de sujets de TP, de transparents/poly de cours, de feuille d'exercices, ...) ou pour les élèves (rédaction de comptes-rendu de TP ou de rapports sur document unique contenant l'ensemble des supports, dont du code executable).
 
-2. Comment installer _Jupyter Notebook_ ?  
-
-→ Vidéo de démonstration d'utilisation  
-→ Exemples de notebook à télécharger ici et à tester en Python
+→ Vidéo de démonstration d'utilisation d'un carnet Jupyter
+→ Exemples de carnet Jupyter (en Python 3) à télécharger ici et à tester
 
 ### Le projet _JupyterHub_ au Cnam
 
