@@ -8,6 +8,8 @@ _As my teaching activities are realised in French, this page is written only in 
 [Enseignements dispensés au Cnam](#cours)  
 [Un outil pour les TP numériques : Jupyter](#Juyter)  
 
+[← back to home page](./)
+
 ## Enseignements dispensés au Cnam<a name="cours"></a>
 
 * **Cours du soir, Cnam Paris** :  
@@ -59,4 +61,4 @@ Afin de faciliter l’accès et l’utilisation des carnets Jupyter lors des cou
 ![Equipe JupyterHub](/assets/images/equipe_Jhub_ok.png)
 
 
-[back to home page](./)
+[← back to home page](./)
