@@ -6,4 +6,4 @@ layout: default
 
 _Page under construction_
 
-[back to home page](./)
+[← back to home page](./)
