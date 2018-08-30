@@ -1,6 +1,6 @@
 ---
 layout: default
----
+---  
 
 _As my teaching activities are realised in French, this page is written only in French language._
 
@@ -18,5 +18,18 @@ _As my teaching activities are realised in French, this page is written only in 
   + Outils mathématiques (codes UE : MAA111, MAA118)  
   + TP d'initiation aux méthodes numériques (codes UE : USMES1, MAA11A)  
   + Simulations fluides, thermique (code UE : MEA136)  
+  
+
+## _Jupyter_ : un outil pour les TP numériques
+
+### Python et _Jupyter Notebook_ 
+
+1. Description de _Jupyter Notebook_  
+2. Comment installer _Jupyter Notebook_ ?  
+
+→ Vidéo de démonstration d'utilisation
+→ Exemples de notebook à télécharger ici et à tester en Python
+
+### Le projet _JupyterHub_ au Cnam
 
 [back to home page](./)
