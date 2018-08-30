@@ -22,17 +22,17 @@ _As my teaching activities are realised in French, this page is written only in 
 
 ## Un outil pour les TP numériques : _Jupyter_
 
-### _Jupyter Notebook_ 
+### Les carnets _Jupyter_
 
-1. Description de _Jupyter Notebook_  :  
+1. Qu'est-ce qu'un carnet Jupyter ?  
 Un carnet Jupyter (notebooks en anglais) se présente sous la forme d'une feuille de texte ou de calculs manipulable à travers un navigateur web. Ce carnet se subdivise en cellules, des zones indépendantes pouvant contenir l'ensemble des éléments suivants :
-- texte html ou Markdown  
-- formules au format LaTex  
-- figures, graphiques  
-- tableaux  
-- vidéos  
-- images  
-- et surtout du **code exécutable** : les langages disponibles sous Jupyter sont multiples : Python, R, C, C++, matlab, ...  
+  - texte html ou Markdown  
+  - formules au format LaTex  
+  - figures, graphiques  
+  - tableaux  
+  - vidéos  
+  - images  
+  - et surtout du **code exécutable** : les langages disponibles sous Jupyter sont multiples : Python, R, C, C++, matlab, ...  
 De plus ce document unique peut ensuite être exporté au format pdf ou html ou bien encore être présenté sous la forme de transparents de cours dynamiques. Les carnets Jupyter représentent donc un format idéal pour les TP numériques, que ce soit pour l'enseignant (rédaction de sujets de TP, de transparents/poly de cours, de feuille d'exercices, ...) ou pour les élèves (rédaction de comptes-rendu de TP ou de rapports sur document unique contenant l'ensemble des supports, dont du code executable).
 
 2. Comment installer _Jupyter Notebook_ ?  
