@@ -7,6 +7,7 @@ layout: default
 [Talks in conferences and seminars](#talks)  
 [PhD thesis](#phd)  
 
+[← back to home page](./)
 
 ## Publications (with review commitee)<a name="articles"></a>
 
@@ -55,4 +56,4 @@ C. Mimeau, Conception et mise en oeuvre de méthodes vortex hybrides-frontières
 [[pdf HAL]](https://tel.archives-ouvertes.fr/tel-01178939/document), [[Bibtex ref]](https://hal.archives-ouvertes.fr/tel-01178939v1/bibtex).
 
 
-[back to home page](./)
+[← back to home page](./)
