@@ -42,7 +42,7 @@ De plus ce document unique peut ensuite être exporté au format pdf ou html ou 
 
 Afin de faciliter l’accès et l’utilisation des carnets Jupyter lors des cours/TP réalisés au Cnam, une équipe de 6 enseignants-chercheurs accompagnée d'un ingénieur a mis en place un projet visant à héberger un serveur JupyterHub unique (machine virtuelle) au sein de la infrastructure informatique du Cnam. Ainsi les auditeurs ne sont désormais plus contraints à l’installation de logiciel tiers sur leurs propres ordinateurs et plus aucune installation n'est nécessaire sur les machines physiques des salles de TP du Cnam. Les ressources de calcul sont distribuées sur le serveur JupyterHub. Il suffit d’une connexion internet pour y accéder et les utiliser.
 
-** Les membres du projet JupyterHub** :  
+**Les membres du projet JupyterHub** :  
 * Rafik Abdesselam (AuPEN, Ingénieur en technologies de la formation)  
 * Amélie Danlos (EPN 1, Bâtiment Energies)  
 * Simon Marié (EPN 4, Ingénierie mécanique et matériaux)  
