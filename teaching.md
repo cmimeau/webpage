@@ -6,7 +6,7 @@ _As my teaching activities are realised in French, this page is written only in 
 
 **Summary**  
 [Enseignements dispensés au Cnam](#cours)  
-[Un outil pour les TP numériques : Jupyter](#Juyter)  
+[Un outil pour les TP numériques : Jupyter](#Jupyter)  
 
 [← back to home page](./)
 
