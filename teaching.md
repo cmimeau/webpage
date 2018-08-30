@@ -24,7 +24,7 @@ _As my teaching activities are realised in French, this page is written only in 
 
 ### Les carnets _Jupyter_
 
-1. Qu'est-ce qu'un carnet Jupyter ?  
+**Qu'est-ce qu'un carnet Jupyter ?**  
 Un carnet Jupyter (notebooks en anglais) se présente sous la forme d'une feuille de texte ou de calculs manipulable à travers un navigateur web. Ce carnet se subdivise en cellules, des zones indépendantes pouvant contenir l'ensemble des éléments suivants :
   - texte html ou Markdown  
   - formules au format LaTex  
