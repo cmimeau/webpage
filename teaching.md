@@ -4,7 +4,11 @@ layout: default
 
 _As my teaching activities are realised in French, this page is written only in French language._
 
-## Enseignements dispensés au Cnam
+**Summary**  
+[Enseignements dispensés au Cnam](#cours)  
+[Un outil pour les TP numériques : Jupyter](#Juyter)  
+
+## Enseignements dispensés au Cnam<a name="cours"></a>
 
 * **Cours du soir, Cnam Paris** :  
   + Calcul différentiel et intégral (code UE : [MVA005](http://formation.cnam.fr/rechercher-par-discipline/calcul-differentiel-et-integral-208544.kjsp))  
@@ -20,7 +24,7 @@ _As my teaching activities are realised in French, this page is written only in 
   + Simulations fluides, thermique (code UE : MEA136)  
   
 
-## Un outil pour les TP numériques : _Jupyter_
+## Un outil pour les TP numériques : _Jupyter_<a name="Jupyter"></a>
 
 ### Les carnets _Jupyter_
 
