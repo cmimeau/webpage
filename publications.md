@@ -2,6 +2,7 @@
 layout: default
 ---
 
+*Summary*  
 [Publications](#articles)  
 [Talks in conferences and seminars](#talks)  
 [PhD thesis](#phd)  
