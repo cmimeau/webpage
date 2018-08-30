@@ -22,14 +22,26 @@ _As my teaching activities are realised in French, this page is written only in 
 
 ## _Jupyter_ : un outil pour les TP numériques
 
-### Python et _Jupyter Notebook_ 
+### _Jupyter Notebook_ 
 
-1. Description de _Jupyter Notebook_  
+1. Description de _Jupyter Notebook_  :  
+Un carnet Jupyter (notebooks en anglais) se présente sous la forme d'une feuille de texte ou de calculs manipulable à travers un navigateur web. Ce carnet se subdivise en cellules, des zones indépendantes pouvant contenir l'ensemble des éléments suivants :
+- texte html ou Markdown  
+- formules au format LaTex  
+- figures, graphiques  
+- tableaux  
+- vidéos  
+- images  
+- et surtout du **code exécutable** : les langages disponibles sous Jupyter sont multiples : Python, R, C, C++, matlab, ...  
+De plus ce document unique peut ensuite être exporté au format pdf ou html ou bien encore être présenté sous la forme de transparents de cours dynamiques. Les carnets Jupyter représentent donc un format idéal pour les TP numériques, que ce soit pour l'enseignant (rédaction de sujets de TP, de transparents/poly de cours, de feuille d'exercices, ...) ou pour les élèves (rédaction de comptes-rendu de TP ou de rapports sur document unique contenant l'ensemble des supports, dont du code executable).
+
 2. Comment installer _Jupyter Notebook_ ?  
 
-→ Vidéo de démonstration d'utilisation
+→ Vidéo de démonstration d'utilisation  
 → Exemples de notebook à télécharger ici et à tester en Python
 
 ### Le projet _JupyterHub_ au Cnam
+
+Afin de faciliter l’accès et l’utilisation des carnets Jupyter lors des cours/TP réalisés au Cnam, une équipe d'enseignants-chercheurs accompagnée d'un ingénieur en technologie de la formation, a mis en place un projet visant à héberger un serveur JupyterHub unique (machine virtuelle) au sein de la infrastructure informatique du Cnam. Ainsi les auditeurs ne sont désormais plus contraints à l’installation de logiciel tiers sur leurs propres ordinateurs et plus aucune installation n'est nécessaire sur les machines physiques des salles de TP du Cnam. Les ressources de calcul sont distribuées sur le serveur JupyterHub. Il suffit d’une connexion internet pour y accéder et les utiliser.
 
 [back to home page](./)
