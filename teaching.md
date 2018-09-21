@@ -60,7 +60,7 @@ Afin de faciliter l’accès et l’utilisation des carnets Jupyter lors des cou
 * Josselin Noirel (EPN 7, Chimie Vivant Santé)  
 * Régis Gallon (EPN 8, Intechmer)  
 
-![Equipe JupyterHub](/assets/images/equipe_Jhub_ok.png)
+![Equipe JupyterHub](/assets/images/equipe_Jhub_greycolor.png)
 
 
 [← back to home page](./)
