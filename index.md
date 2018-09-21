@@ -14,15 +14,15 @@ Since 09/2018 I am an Assistant Professor in mathematics applied to computationa
 
 ## Education
 
-### From 2016
+### ♦ From 2016
 Assistant Professor at CNAM Paris.
 
-### 2015-2016
+### ♦ 2015-2016
 ATER at ENSAM Paris, in [Dynfluid](http://dynfluid.ensam.eu/) laboratory with [Jean-Christophe Robinet](http://jch.robinet.pagesperso-orange.fr/).
 
-### 2011-2015
+### ♦ 2011-2015
 PhD in Applied Mathematics at University of Grenoble-Alpes, in [LJK](https://ljk.imag.fr/) laboratory with [Georges-Henri Cottet](https://ljk.imag.fr/membres/Georges-Henri.Cottet/) and [Iraj Mortazavi](https://www.researchgate.net/profile/Iraj_Mortazavi).  
 Thesis title : "Conception et mise en oeuvre de méthodes vortex hybrides-frontières immergées pour des milieux solides-fluides-poreux. Application au contrôle passif d’écoulements".
 
-### 2009-2011
-Master 2 "Modélisation calcul et environnement" at University of Bordeaux and Master 2 intership at ETH Zürich, in [CSE lab](http://www.cse-lab.ethz.ch/) with [Petros Kouloutsakos](http://www.cse-lab.ethz.ch/member/petros-koumoutsakos/)
+### ♦ 2009-2011
+Master 2 "Modélisation calcul et environnement" at University of Bordeaux and Master 2 intership at ETH Zürich, in [CSE lab](http://www.cse-lab.ethz.ch/) with [Petros Koumoutsakos](http://www.cse-lab.ethz.ch/member/petros-koumoutsakos/)
