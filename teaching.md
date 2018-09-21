@@ -42,8 +42,11 @@ Un carnet Jupyter (notebooks en anglais) se présente sous la forme d'une feuill
 
 De plus ce document unique peut ensuite être exporté au format pdf ou html ou bien encore être présenté sous la forme de transparents de cours dynamiques. Les carnets Jupyter représentent donc un format idéal pour les TP numériques, que ce soit pour l'enseignant (rédaction de sujets de TP, de transparents/poly de cours, de feuille d'exercices, ...) ou pour les élèves (rédaction de comptes-rendu de TP ou de rapports sur document unique contenant l'ensemble des supports, dont du code executable).
 
-→ Vidéo de démonstration d'utilisation d'un carnet Jupyter  
-→ Exemples de carnet Jupyter (en Python 3) à télécharger ici et à tester
+**Et en pratique ?** 
+→ Vidéo de [démonstration](https://www.youtube.com/watch?v=Duicsycntdo) d'utilisation d'un carnet Jupyter  
+→ Tester directement Jupyter en ligne, sans installation, sur [try.jupyter.org](https://mybinder.org/v2/gh/ipython/ipython-in-depth/master?filepath=binder/Index.ipynb) (attention, il y a souvent saturation du serveur. De façon générale, une installation de Jupyter sur votre machine est vivement recommandée).
+→ Pour installer Jupyter, télécharger la distribution [Anaconda](https://www.anaconda.com/download) pour Python version 2 ou 3 (contenant nativement Jupyter ainsi que d'autres applications Python comme l'IDE Spyder)
+→ Exemples de carnet Jupyter (en Python 3) à télécharger [ici](assets/images/Detection_de_contours_et_de_droites_dans_une_image.ipynb) et à tester
 
 ### Le projet _JupyterHub_ au Cnam
 
