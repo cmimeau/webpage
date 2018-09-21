@@ -6,4 +6,5 @@ github:
   publi: https://cmimeau.github.io/webpage/publications.html
 plugins:
   - jekyll-seo-tag
+google_analytics: true
 theme: jekyll-theme-dinky
