@@ -26,7 +26,7 @@ _As my teaching activities are realised in French, this page is written only in 
   + Simulations fluides, thermique (code UE : MEA136)  
   
 
-## Un outil pour les TP numériques : _Jupyter_<a name="Jupyter"></a>
+## Un outil pour les TP numériques : _Jupyter_<a name="Jupyter"></a> ![Logo Jupyter](/assets/images/jupyter.png)
 
 ### Les carnets _Jupyter_
 
