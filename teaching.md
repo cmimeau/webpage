@@ -27,7 +27,7 @@ _As my teaching activities are realised in French, this page is written only in 
   
 
 ## Un outil pour les TP numériques : _Jupyter_<a name="Jupyter"></a>  
-[![Logo Jupyter](/assets/images/jupyter.png)](http://jupyter.org/)
+[![Logo Jupyter](/assets/images/jupyter.png)](http://jupyter.org/)   {.center}
 ### Les carnets _Jupyter_
 
 **Qu'est-ce qu'un carnet Jupyter ?**  
