@@ -14,7 +14,7 @@ _As my teaching activities are realised in French, this page is written only in 
 
 * **Cours du soir, Cnam Paris** :  
   + Calcul différentiel et intégral (code UE : [MVA005](http://formation.cnam.fr/rechercher-par-discipline/calcul-differentiel-et-integral-208544.kjsp))  
-→ Matériel de cours disponible [ici](http://maths.cnam.fr/spip.php?article318)  
+→ Matériel de cours disponible [ici] (http://maths.cnam.fr/spip.php?article318) mis à jour toutes les semaines   
   + Analyse et calcul matriciel (code UE : [MVA101](http://formation.cnam.fr/rechercher-par-discipline/analyse-et-calcul-matriciel-208548.kjsp))  
 → Matériel de cours disponible [ici](http://maths.cnam.fr/spip.php?article416)  
   + Apprentissage des logiciels de calcul (code UE : [STA002](http://formation.cnam.fr/rechercher-par-discipline/apprentissage-des-logiciels-de-calcul-1004085.kjsp))  
