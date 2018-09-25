@@ -4,7 +4,7 @@ layout: default
 
 ![Cnam](/assets/images/cnam.jpg)
 
-Since 09/2018 I am an Assistant Professor in mathematics applied to computational fluid dynamics at [CNAM Paris](http://www.cnam-paris.fr/cnam-paris/1300-formations-et-300-diplomes-de-bac-a-bac-8-818673.kjsp) (Conservatoire National des Arts et Métiers) in the [M2N](http://maths.cnam.fr/M2N/) Laboratory.  
+Since 09/2016 I am an Assistant Professor in mathematics applied to computational fluid dynamics at [CNAM Paris](http://www.cnam-paris.fr/cnam-paris/1300-formations-et-300-diplomes-de-bac-a-bac-8-818673.kjsp) (Conservatoire National des Arts et Métiers) in the [M2N](http://maths.cnam.fr/M2N/) Laboratory.  
 
 ## Research interests in brief
 * imcompressible fluid dynamics
