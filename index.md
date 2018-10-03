@@ -25,4 +25,4 @@ PhD in Applied Mathematics at University of Grenoble-Alpes, in [LJK](https://ljk
 Thesis title : "Conception et mise en oeuvre de méthodes vortex hybrides-frontières immergées pour des milieux solides-fluides-poreux. Application au contrôle passif d’écoulements".
 
 ### ♦ 2009-2011
-Master 2 "Modélisation calcul et environnement" at University of Bordeaux and Master 2 internship at ETH Zürich, in [CSE lab](http://www.cse-lab.ethz.ch/) with [Petros Koumoutsakos](http://www.cse-lab.ethz.ch/member/petros-koumoutsakos/)
+Master 2 "Modélisation calcul et environnement" at University of Bordeaux and Master 2 internship at ETH Zürich, in [CSE lab](http://www.cse-lab.ethz.ch/) with [Petros Koumoutsakos](http://www.cse-lab.ethz.ch/member/petros-koumoutsakos/).
