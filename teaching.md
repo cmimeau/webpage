@@ -8,7 +8,7 @@ _As my teaching activities are realised in French, this page is written only in 
 [Enseignements dispensés au Cnam](#cours)  
 [Un outil pour les TP numériques : Jupyter](#Jupyter)  
 
-[← back to home page](./)
+[**← back to home page**](./)
 
 ## Enseignements dispensés au Cnam<a name="cours"></a>
 
@@ -63,4 +63,4 @@ Afin de faciliter l’accès et l’utilisation des carnets Jupyter lors des cou
 ![Equipe JupyterHub](/assets/images/equipe_Jhub_greycolor.png)
 
 
-[← back to home page](./)
+[**← back to home page**](./)
