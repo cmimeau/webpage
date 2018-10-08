@@ -4,7 +4,7 @@ github:
   teaching: https://cmimeau.github.io/webpage/teaching.html
   research: https://cmimeau.github.io/webpage/research.html
   publi: https://cmimeau.github.io/webpage/publications.html
-plugins:
+gems:
   - jekyll-seo-tag
 google_analytics: true
 theme: jekyll-theme-dinky
