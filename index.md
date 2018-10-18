@@ -26,3 +26,10 @@ Thesis title : "Conception et mise en oeuvre de méthodes vortex hybrides-fronti
 
 ### ♦ 2009-2011
 Master 2 "Modélisation calcul et environnement" at University of Bordeaux and Master 2 internship at ETH Zürich, in [CSE lab](http://www.cse-lab.ethz.ch/) with [Petros Koumoutsakos](http://www.cse-lab.ethz.ch/member/petros-koumoutsakos/).
+
+
+## Various items
+
+* **State of employment in Sciences in France** (2018 government report) [[here]](http://cache.media.enseignementsup-recherche.gouv.fr/file/2018/08/4/Etat_emploi_scientifique_2018_1012084.pdf)
+
+* Website of [Femmes et Mathématiques](http://www.femmes-et-maths.fr/index.php?page=contenu&cat=1) association.
