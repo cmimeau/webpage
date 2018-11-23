@@ -18,8 +18,8 @@ _Influence of a porous layer on the flow dynamics around a hemisphere (simplifie
 
 ### Subgrid scale model for Vortex methods to perform _bi-level_ simulations
 ![TG3D](/assets/images/3D_T=8.png)
-![TGslice](/assets/images/slice_T=8.pdf)
+![TGslice](/assets/images/slice_T=8.png)
 _Taylor Green vortex at Re=1600. Comparison between DNS results obtained
-with a 256^(3) resolution and results obtained with an anisotropic subgrid scale model and a 256^(3)(vorticity)-64^(3)(velocity) resolution_
+with a 256^(3) resolution (left pictures) and results obtained with an anisotropic subgrid scale model and a 256^(3)(vorticity)-64^(3)(velocity) resolution (right pictures)_
 
 [**← back to home page**](./)
