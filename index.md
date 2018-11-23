@@ -12,7 +12,7 @@ Since 09/2016 I am an Assistant Professor in mathematics applied to computationa
 * semi-lagrangian numerical methods
 * computer science, high performance computing
 
-### Important : Internship offer
+### Important : Master internship offer
 
 Master internship offer in M2N laboratory (start in february-march 2019) : "_Simulation particulaire des écoulements complexes_"  
 → download the subject [here](assets/images/sujet_stage_M2N_Cnam.pdf) (written in french).  
