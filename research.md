@@ -12,6 +12,8 @@ These works are applied for instance to the following problems :
 
 _Flow past a sphere at_ $Re=300$
 
+$ax+b =toto$
+
 ### Passive flow control using porous media
 ![PassiveControl](/assets/images/passive_control_Re1000.png)  
 
