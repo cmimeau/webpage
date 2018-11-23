@@ -12,6 +12,12 @@ Since 09/2016 I am an Assistant Professor in mathematics applied to computationa
 * semi-lagrangian numerical methods
 * computer science, high performance computing
 
+<div style="border: 2px solid #F48082; padding: 3px; background-color: #F2E9EA; -moz-border-radius-topleft: 5px; -moz-border-radius-topright: 5px; -moz-border-radius-bottomright: 5px; -moz-border-radius-bottomleft: 5px;">
+<p>
+<strong>Master internship offer</strong>: Stage de Master 2 "Simulation particulaire des écoulements complexes" (laboratoire M2N) → voir le sujet du stage [ici](assets/images/sujet_stage_M2N_Cnam.pdf).
+</p>
+</div>
+
 ## Education
 
 ### ♦ From 2016
