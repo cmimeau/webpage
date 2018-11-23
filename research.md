@@ -2,6 +2,8 @@
 layout: default
 ---
 
+[**← back to home page**](./)
+
 ## Research gallery
 
 My research activities rely on the development of **semi-Lagrangian Vortex methods** to simulate incompressible flows.
