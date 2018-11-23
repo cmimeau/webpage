@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Research themes
+## Gallery
 
 My research activities rely on the development of **semi-Lagrangian Vortex methods** to simulate incompressible flows.
 These works are applied for instance to the following problems :
