@@ -8,7 +8,7 @@ My research activities rely on the development of **semi-Lagrangian Vortex metho
 These works are applied for instance to the following problems :
 
 ### Flow past bluff bodies 
-![Sphere300](/assets/images/sphere300_sideview.jpg){ width=50% }
+![Sphere300](/assets/images/sphere_Re300.png)
 
 _Flow past a sphere at Re=300_
 
