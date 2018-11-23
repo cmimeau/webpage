@@ -13,7 +13,7 @@ These works are applied for instance to the following problems :
 _Flow past a sphere at Re=300_
 
 ### Passive flow control using porous media
-![PassiveControl](/assets/images/passive_control_HS.jpg)
+![PassiveControl](/assets/images/passive_control_Re1000.png)
 _Influence of a porous layer on the flow dynamics around a hemisphere (simplified model of a side view mirror) at Re=1000_
 
 ### Subgrid scale model for Vortex methods to perform _bi-level_ simulations
