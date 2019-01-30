@@ -61,6 +61,6 @@ Afin de faciliter l’accès et l’utilisation des carnets Jupyter lors des cou
 * Régis Gallon (EPN 8, Intechmer)  
 
 ![Equipe JupyterHub](/assets/images/equipe_Jhub_greycolor.png)
-
+*illustration : Josselin Noirel*
 
 [**← back to home page**](./)
