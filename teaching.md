@@ -14,11 +14,11 @@ _As my teaching activities are realised in French, this page is written only in 
 
 * **Cours du soir, Cnam Paris** :  
   + Calcul différentiel et intégral (code UE : [MVA005](http://formation.cnam.fr/rechercher-par-discipline/calcul-differentiel-et-integral-208544.kjsp))  
-→ Matériel de cours disponible [ici](http://maths.cnam.fr/spip.php?article318) mis à jour toutes les semaines   
+→ Matériel de cours disponible [ici](http://maths.cnam.fr/spip.php?article318)   
   + Analyse et calcul matriciel (code UE : [MVA101](http://formation.cnam.fr/rechercher-par-discipline/analyse-et-calcul-matriciel-208548.kjsp))  
 → Matériel de cours disponible [ici](http://maths.cnam.fr/spip.php?article416)  
   + Apprentissage des logiciels de calcul (code UE : [STA002](http://formation.cnam.fr/rechercher-par-discipline/apprentissage-des-logiciels-de-calcul-1004085.kjsp))  
-  + Analyse numérique matricielle et optimisation, Travaux pratiques (code UE : [CSC106](http://formation.cnam.fr/rechercher-par-discipline/analyse-numerique-matricielle-et-optimisation-travaux-pratiques-207977.kjsp))  
+  + Analyse numérique matricielle et optimisation, Travaux pratiques en Python via l'interface Jupyter (voir ci-dessous) (code UE : [CSC104](http://formation.cnam.fr/rechercher-par-discipline/analyse-numerique-matricielle-et-optimisation-1--1093198.kjsp))  
   
 * **Cours alternance, Cnam Saint-Denis (DUT et Ecole d'ingénieurs du Cnam -EiCnam-)** :  
   + Outils mathématiques (codes UE : MAA111, MAA118)  
