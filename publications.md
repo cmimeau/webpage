@@ -13,10 +13,13 @@ layout: default
 
 ### International journals 
 
+* C. Mimeau, I. Mortazavi and G.-H. Cottet. A Semi-Lagrangian Vortex Penalization Method for 3D Incompressible Flows. _J. Math. Study_, 2019, 52, No. 3, pp. 277-298, doi: 10.4208/jms.v52n3.19.04  
+[[pdf]](assets/images/J_Math_Study_2019.pdf)
+
 * C. Mimeau, G.-H. Cottet and I. Mortazavi. Passive control of the flow around a hemisphere using porous media. _European Journal of Mechanics - B/Fluids_, 2017, 65, pp.213-226  
 [[pdf HAL]](https://hal.archives-ouvertes.fr/hal-01483400/document), [[Bibtex ref]](https://hal.archives-ouvertes.fr/hal-01483400v1/bibtex).
 
-* C. Mimeau, G.-H Cottet and I. Mortazavi. Direct numerical simulations of three-dimensional flows past obstacles with a vortex penalization method. _Computers and Fluids_, 2016, 136, pp.331-347  
+* C. Mimeau, G.-H Cottet and I. Mortazavi. Direct numerical simulations of three-dimensional flows past obstacles with a vortex penalization method. _Computers and Fluids_, 2016, 136, pp. 331-347  
 [[pdf HAL]](https://hal.archives-ouvertes.fr/hal-01855265/document), [[Bibtex ref]](https://hal.archives-ouvertes.fr/hal-01855265v1/bibtex).
 
 * C. Mimeau, F. Gallizio, I. Mortazavi and G.-H. Cottet. Vortex penalization method for bluff body flows. _Intern. Journal for Numerical Methods in Fluids_, 2015, 79, pp. 53-83.  
@@ -30,6 +33,8 @@ layout: default
 
 ### Proceedings in International conferences
 
+* C. Mimeau, G.-H Cottet and I. Mortazavi. A Hybrid Vortex Method for the Simulation of 3D Incompressible Flows. ICCS 2019 International Conference on Computational Science, Faro, Portugal, 12-14 June 2019, published in Lecture Notes in Computer Science book series (LNCS, volume 11539), doi: 10.1007/978-3-030-22747-0_46.  
+
 * C. Mimeau, G.-H Cottet and I. Mortazavi. An artificial viscosity model for 3D simulations with Vortex Methods. ICCFD10 Tenth International Conference on Computational Fluid Dynamics, Barcelona, Spain, 9-13 July 2018.
 
 * C. Mimeau , I. Mortazavi and G.-H. Cottet. Applications of an hybrid particle-grid penalization method for the DNS and passive control of bluff-body flows. ICCS 2017 International Conference on Computational Science, published in Procedia Computer Science 108C (2017), pp. 1998-2007, doi:10.1016/j.procs.2017.05.031, Zurich, Switzerland, 12-14 June 2017.
@@ -42,6 +47,9 @@ layout: default
 
 ## Talks in conferences and seminars (without review commitee)<a name="talks"></a>
 
+* Invited speaker for a seminar in Laboratoire de Mathématique Appliquées de Pau (LMAP), France, 12-14 February 2020. 
+* GDR Flow separation control, Paris, France, 20-21 November 2019.
+* Invited speaker for a seminar in Prof. Chatelain's research team at Université Catholique de Louvain (UCL), Belgium, 19-21 February 2017. 
 * Organizer of a mini-symposium on Lagrangian methods at 44th CANUM conference (Congrès national d'Analyse NUMérique), Cap d'Adge, France, 28 may-1 june 2018.  
 * EUROMECH SYMPOSIUM n°591, 3-D Instability Mechanisms in Transitional and Turbulent Flows, Bari, Italy, 8–20 September 2017.   
 * Invited speaker for a seminar in Prof. Kornev's research team at University of Rostock, Germany, 13 July 2017.  
