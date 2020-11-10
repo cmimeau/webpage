@@ -30,6 +30,8 @@ Master 2 "Modélisation calcul et environnement" at University of Bordeaux and 
 
 ## Various items
 * [Gender gap in Science, How to measure it ? How to reduce it ?](assets/images/Gender_Gap_in_Science.pdf)
-* State of employment in Sciences in France ([2018 government report](http://cache.media.enseignementsup-recherche.gouv.fr/file/2018/08/4/Etat_emploi_scientifique_2018_1012084.pdf))  
+* State of employment in Sciences in France :
+    * [2018 government report](http://cache.media.enseignementsup-recherche.gouv.fr/file/2018/08/4/Etat_emploi_scientifique_2018_1012084.pdf)  
+    * [2020 government report](https://www.enseignementsup-recherche.gouv.fr/cid154848/l-etat-de-l-emploi-scientifique-en-france-edition-2020.html)
 * Website of [Femmes et Mathématiques](http://www.femmes-et-maths.fr/index.php?page=contenu&cat=1) association
 * Article in *The Conversation* ["Chercheurs, donnez l’exemple, prenez moins l’avion ! "](https://theconversation.com/chercheurs-donnez-lexemple-prenez-moins-lavion-110613) (by Kevin Jean, Xavier Anglaret and Chris Wymant)
