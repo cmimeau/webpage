@@ -13,7 +13,7 @@ layout: default
 
 ### International journals 
 
-* C. Mimeau, S. Marié and I. Mortazavi. A comparison of semi-Lagrangian Vortex method and Lattice Boltzmann method for incompressible flows. _Comp & Fluids_, 2020 (_under revision_)
+* C. Mimeau, S. Marié and I. Mortazavi. A comparison of semi-Lagrangian Vortex method and Lattice Boltzmann method for incompressible flows. _Comp & Fluids_, 2021 (_under revision_)
 
 * C. Mimeau and I. Mortazavi. A review of Vortex Methods and their applications: from creation to recent advances. _Fluids_, 2021, 6(2), 68  
 [[pdf]](https://www.mdpi.com/2311-5521/6/2/68)
