@@ -15,7 +15,7 @@ Since 09/2016 I am an Assistant Professor in mathematics applied to computationa
 ## ⚠️ MCF Position ⚠️ 
 
 The M2N laboratory and EPN 6 department (mathematics ans statistics) offer a "Maitre de Conférences" position.
-Please find [here](assets/images/Profil de poste_MCF_0389_(4237)_EPN6_M2N.pdf) the offer description (written in french).
+Please find [here](assets/images/Profil_de_poste_MCF_0389_(4237)_EPN6_M2N.pdf) the offer description (written in french).
 
 ## Education
 
