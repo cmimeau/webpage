@@ -42,18 +42,18 @@ Un carnet Jupyter (notebooks en anglais) se présente sous la forme d'une feuill
 De plus ce document unique peut ensuite être exporté au format pdf ou html ou bien encore être présenté sous la forme de transparents de cours dynamiques. Les carnets Jupyter représentent donc un format idéal pour les TP numériques, que ce soit pour l'enseignant (rédaction de sujets de TP, de transparents/poly de cours, de feuille d'exercices, ...) ou pour les élèves (rédaction de comptes-rendu de TP ou de rapports sur document unique contenant l'ensemble des supports, dont du code executable).
 
 **Et en pratique ?**   
-→ Vidéo de [démonstration](https://www.youtube.com/watch?v=Duicsycntdo) d'utilisation d'un carnet Jupyter  
-→ Tester directement Jupyter en ligne, sans installation, sur [try.jupyter.org](https://mybinder.org/v2/gh/ipython/ipython-in-depth/master?filepath=binder/Index.ipynb) (attention, il y a souvent saturation du serveur. De façon générale, une installation de Jupyter sur votre machine est vivement recommandée)  
-→ Pour installer Jupyter, télécharger la distribution [Anaconda](https://www.anaconda.com/download) pour Python version 2 ou 3 (contenant nativement Jupyter ainsi que d'autres applications Python comme l'IDE Spyder)  
-→ Exemples de carnet Jupyter (en Python 3) à télécharger [ici](assets/images/Detection_de_contours_et_de_droites_dans_une_image.ipynb) et à tester dans Jupyter (en cliquant sur l'onglet *Upload* en haut à droite)
+→ Vidéo de [démonstration](https://www.youtube.com/watch?v=Duicsycntdo) d'utilisation d'un carnet Jupyter   
+→ Pour installer Jupyter sur votre ordinateur personnel, télécharger la distribution [Anaconda](https://www.anaconda.com/download) pour Python version 2 ou 3 (contenant nativement Jupyter ainsi que d'autres applications Python comme l'IDE Spyder)  
+→ Vous êtes personnel enseignant ou auditeur du Cnam ? Pour utiliser Jupyter sans aucune installation au sein du Cnam, voir la rubrique ci-dessous
+
 
 ### Le projet _JupyterHub_ au Cnam
 
-Afin de faciliter l’accès et l’utilisation des carnets Jupyter lors des cours/TP réalisés au Cnam, une équipe de 6 enseignants-chercheurs accompagnée d'un ingénieur a mis en place un projet visant à héberger un serveur [JupyterHub](https://jhub.cnam.fr/) unique (machine virtuelle) au sein de l'infrastructure informatique du Cnam. Ainsi les élèves ne sont désormais plus contraints à l’installation de logiciel tiers sur leurs propres ordinateurs et plus aucune installation n'est nécessaire sur les machines physiques des salles de TP du Cnam. Les ressources de calcul sont distribuées sur le serveur JupyterHub. Il suffit d’une connexion internet pour y accéder et les utiliser (seuls les enseignants-chercheurs et les élèves du Cnam ont accès à ce serveur).
+Afin de faciliter l’accès et l’utilisation des carnets Jupyter lors des cours/TP réalisés au Cnam, une équipe de 6 enseignants-chercheurs accompagnée d'un ingénieur a mis en place un projet visant à héberger un serveur [JupyterHub](https://jhub.cnam.fr/) unique (machine virtuelle) au sein de l'infrastructure informatique du Cnam. Ainsi les élèves ne sont désormais plus contraints à l’installation de logiciel tiers sur leurs propres ordinateurs et plus aucune installation n'est nécessaire sur les machines physiques des salles de TP du Cnam. Les ressources de calcul sont distribuées sur le serveur JupyterHub. Il suffit d’une connexion internet pour y accéder et les utiliser. L'accès à l'interace JupyterHub se fait très simplement [à partir de Moodle](assets/images/demo-jupyterhub-dans-moodle.mp4) (seuls les enseignants et les élèves du Cnam ont accès à Moodle et donc au serveur JupyterHub du Cnam).
 
-→ Vidéo de démonstration d'import de [JupyterHub-Cnam dans Moodle](assets/images/demo-jupyterhub-dans-moodle.mp4)
+→ Consulter notre [site de documentation](https://jhub.cnam.fr/doc/) pour découvrir le JupyterHub du Cnam
 
-**Les membres du projet JupyterHub** :
+**Les membres du projet JupyterHub au Cnam** :
 * Rafik Abdesselam (AuPEN, Ingénieur en technologies de la formation)  
 * Amélie Danlos (EPN 1, Bâtiment Energies)  
 * Simon Marié (EPN 4, Ingénierie mécanique et matériaux)  
