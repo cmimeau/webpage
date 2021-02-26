@@ -49,7 +49,9 @@ De plus ce document unique peut ensuite être exporté au format pdf ou html ou 
 
 ### Le projet _JupyterHub_ au Cnam
 
-Afin de faciliter l’accès et l’utilisation des carnets Jupyter lors des cours/TP réalisés au Cnam, une équipe de 6 enseignants-chercheurs accompagnée d'un ingénieur a mis en place un projet visant à héberger un serveur [JupyterHub](https://jhub.cnam.fr/) unique (machine virtuelle) au sein de l'infrastructure informatique du Cnam. Ainsi les élèves ne sont désormais plus contraints à l’installation de logiciel tiers sur leurs propres ordinateurs et plus aucune installation n'est nécessaire sur les machines physiques des salles de TP du Cnam. Les ressources de calcul sont distribuées sur le serveur JupyterHub. Il suffit d’une connexion internet pour y accéder et les utiliser. L'accès à l'interace JupyterHub se fait très simplement [à partir de Moodle](assets/images/demo-jupyterhub-dans-moodle.mp4) (seuls les enseignants et les élèves du Cnam ont accès à Moodle et donc au serveur JupyterHub du Cnam).
+Afin de faciliter l’accès et l’utilisation des carnets Jupyter lors des cours/TP réalisés au Cnam, une équipe de 6 enseignants-chercheurs accompagnée d'un ingénieur a mis en place un projet visant à héberger un serveur [JupyterHub](https://jhub.cnam.fr/) unique (machine virtuelle) au sein de l'infrastructure informatique du Cnam. Ainsi les élèves ne sont désormais plus contraints à l’installation de logiciel tiers sur leurs propres ordinateurs et plus aucune installation n'est nécessaire sur les machines physiques des salles de TP du Cnam. 
+
+Les ressources de calcul sont distribuées sur le serveur JupyterHub. Il suffit d’une connexion internet pour y accéder et les utiliser. L'accès à l'interace JupyterHub se fait très simplement [à partir de Moodle](assets/images/demo-jupyterhub-dans-moodle.mp4) (seuls les enseignants et les élèves du Cnam ont accès à Moodle et donc au serveur JupyterHub du Cnam).
 
 → Consulter notre [site de documentation](https://jhub.cnam.fr/doc/) pour découvrir le JupyterHub du Cnam
 
