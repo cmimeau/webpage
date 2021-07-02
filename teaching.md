@@ -53,7 +53,7 @@ Afin de faciliter l’accès et l’utilisation des carnets Jupyter lors des cou
 
 Les ressources de calcul sont distribuées sur le serveur JupyterHub. Il suffit d’une connexion internet pour y accéder et les utiliser. L'accès à l'interace JupyterHub se fait très simplement [à partir de Moodle](assets/images/demo-jupyterhub-dans-moodle.mp4) (seuls les enseignants et les élèves du Cnam ont accès à Moodle et donc au serveur JupyterHub du Cnam).
 
-→ Site de documentation à venir pour découvrir le JupyterHub du Cnam
+→ [Site de documentation](https://jhub.cnam.fr/doc/) pour découvrir le JupyterHub du Cnam 
 
 **Les membres du projet JupyterHub au Cnam** :
 * Rafik Abdesselam (AuPEN, Ingénieur en technologies de la formation)  
