@@ -12,11 +12,6 @@ Since 09/2016 I am an Assistant Professor in mathematics applied to computationa
 * semi-lagrangian numerical methods
 * computer science, high performance computing
 
-## ⚠️ MCF Position at M2N laboratory (2021) ⚠️ 
-
-The M2N laboratory and EPN 6 department (mathematics ans statistics) offer a "Maitre de Conférences" position.  
-Please find [here](assets/images/Profil_de_poste_MCF_0389_(4237)_EPN6_M2N.pdf) the offer description (written in french).
-
 ## Education
 
 ### ♦ From 2016
