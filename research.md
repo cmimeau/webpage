@@ -6,7 +6,7 @@ layout: default
 
 ## Research gallery
 
-My research activities rely on the development of **semi-Lagrangian Vortex methods** to simulate incompressible flows.
+My research activities rely on the development of numerical methods (in particular **semi-Lagrangian Vortex methods**) to simulate incompressible flows.
 These works are applied for instance to the following problems :
 
 ### Flow past bluff bodies 
