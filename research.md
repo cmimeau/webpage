@@ -26,7 +26,7 @@ _Influence of a porous layer on the flow dynamics around a hemisphere (simplifie
 Is a porous layer able to delay the transition to a more turbulent flow regime ? Is this delay monotonously related to the permeability of the added porous layer ?
 The stability analysis is an efficient tool to answer these questions:
 
-→ [Master thesis](assets/images/Master_thesis_Alessandro_Castriotta.pdf) of Alessandro Castriotta (supervision : C. Mimeau (Cnam), J.-C. Robinet and R. Frantz (Ensam))  
+→ [Master thesis](assets/images/Master_thesis_Alessandro Castriotta.pdf) of Alessandro Castriotta (supervision : C. Mimeau (Cnam), J.-C. Robinet and R. Frantz (Ensam))  
 → [Master thesis](assets/images/Master_thesis_Mikail_Salihoglu.pdf) of Mikail Salihoglu (supervision : C. Mimeau (Cnam), J.-C. Robinet and R. Frantz (Ensam))
 
 ### Subgrid scale model for Vortex methods to perform _bi-level_ simulations
