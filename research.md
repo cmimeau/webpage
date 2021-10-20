@@ -19,6 +19,16 @@ _Flow past a sphere at Re=300_
 
 _Influence of a porous layer on the flow dynamics around a hemisphere (simplified model of a side view mirror) at Re=1000_
 
+→ more results and details [here](https://hal.archives-ouvertes.fr/hal-01483400/document)
+
+**Stability analysis for passive flow control with porous media**
+
+Is a porous layer able to delay the transition to a more turbulent flow regime ? Is this delay monotonously related to the permeability of the added porous layer ?
+The stability analysis is an efficient tool to answer these questions:
+
+→ Master intership [report](assets/images/Master_thesis_Alessandro Castriotta.pdf) of Alessandro Castriotta (supervision : C. Mimeau (Cnam), J.-C. Robinet and R. Frantz (Ensam))
+→ Master intership [report](assets/images/Master_thesis_Mikail_Salihoglu.pdf) of Mikail Salihoglu (supervision : C. Mimeau (Cnam), J.-C. Robinet and R. Frantz (Ensam))
+
 ### Subgrid scale model for Vortex methods to perform _bi-level_ simulations
 ![TG3D](/assets/images/3D_T=8.png)
 ![TGslice](/assets/images/slice_T=8.png)  
