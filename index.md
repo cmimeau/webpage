@@ -9,6 +9,7 @@ Since 09/2016 I am an Assistant Professor in mathematics applied to computationa
 ## Research interests in brief
 * incompressible fluid dynamics
 * flow in porous media
+* stability analysis
 * semi-lagrangian numerical methods
 * computer science, high performance computing
 
