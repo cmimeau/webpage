@@ -30,7 +30,7 @@ Master 2 "Modélisation calcul et environnement" at University of Bordeaux and 
 
 
 ## Various items
-* Communiqué : ["Réforme du lycée et mathématiques, 25 ans de recul sur les inégalités filles/garçons"](assets/images/Reforme_lycee_et_decrochage_des_filles_en_maths.pdf)
+* Communiqué et article de presse (Mediapart) : ["Réforme du lycée et mathématiques, 25 ans de recul sur les inégalités filles/garçons"](assets/images/Reforme_lycee_et_decrochage_des_filles_en_maths.pdf)
 * [Gender gap in Science, How to measure it ? How to reduce it ?](assets/images/Gender_Gap_in_Science.pdf)
 * State of employment in Sciences in France :
     * [2018 government report](http://cache.media.enseignementsup-recherche.gouv.fr/file/2018/08/4/Etat_emploi_scientifique_2018_1012084.pdf)  
