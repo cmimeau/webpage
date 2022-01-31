@@ -15,7 +15,8 @@ Since 09/2016 I am an Assistant Professor in mathematics applied to computationa
 
 ## ⭐ News - Current events ⭐
 
-Cnam departments of Mathematics and IT propose a new certificate : [**Intelligence Artificielle et Calcul Scientifique**](assets/images/CS_IA_et_calcul_scientifique_flyer_A5.pdf).  
+Cnam departments of Mathematics and IT propose a new certificate : 
+[**Intelligence Artificielle et Calcul Scientifique**](assets/images/CS_IA_et_calcul_scientifique_flyer_A5.pdf).  
 This program is pioneer in France. Click on link above to read the details.
 
 ## Education
