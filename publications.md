@@ -16,7 +16,7 @@ layout: default
 * C. Mimeau, S. Marié, L. Roussel and I. Mortazavi. Wake prediction in 3D porous-fluid flows : a numerical study using a Brinkman penalization LBM approach. _Flow, Turbulence and Combustion_, 2023, doi:[0.1007/s10494-023-00471-w](https://doi.org/10.1007/s10494-023-00471-w).   
 [[Online free version]](https://rdcu.be/dkCxP)
 
-* C. Mimeau, S. Marié and I. Mortazavi. A comparison of semi-Lagrangian Vortex method and Lattice Boltzmann method for incompressible flows. _Comp & Fluids_, 2021, 224, 104946. 
+* C. Mimeau, S. Marié and I. Mortazavi. A comparison of semi-Lagrangian Vortex method and Lattice Boltzmann method for incompressible flows. _Comp & Fluids_, 2021, 224, 104946.   
 [[pdf]](assets/images/Mimeau_Marie_Mortazavi_CF2021.pdf), [[web version]](https://www.sciencedirect.com/science/article/pii/S0045793021001134?dgcid=author), [[Bibtex ref]](https://hal.archives-ouvertes.fr/hal-03214005v1/bibtex).
 
 * C. Mimeau and I. Mortazavi. A review of Vortex Methods and their applications: from creation to recent advances. _Fluids_, 2021, 6(2), 68  
