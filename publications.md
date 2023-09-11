@@ -13,6 +13,9 @@ layout: default
 
 ### International journals 
 
+* C. Mimeau, S. Marié, L. Roussel and I. Mortazavi. Wake prediction in 3D porous-fluid flows : a numerical study using a Brinkman penalization LBM approach. _Flow, Turbulence and Combustion_, 2023, doi:[0.1007/s10494-023-00471-w](https://doi.org/10.1007/s10494-023-00471-w).
+[Online free version](https://rdcu.be/dkCxP)
+
 * C. Mimeau, S. Marié and I. Mortazavi. A comparison of semi-Lagrangian Vortex method and Lattice Boltzmann method for incompressible flows. _Comp & Fluids_, 2021, 224, 104946. 
 [[pdf]](assets/images/Mimeau_Marie_Mortazavi_CF2021.pdf), [[web version]](https://www.sciencedirect.com/science/article/pii/S0045793021001134?dgcid=author), [[Bibtex ref]](https://hal.archives-ouvertes.fr/hal-03214005v1/bibtex).
 
@@ -39,6 +42,8 @@ layout: default
 
 ### Proceedings in International conferences
 
+* M. de Crouy-Chanel, C. Mimeau, I. Mortazavi and M.V. Salvetti. Subgrid-scale modeling for Remeshed Vortex Methods. DLES-13 Conference, Udine, Italy, 26-28 October 2022, under revision for publication in ERCOFTAC Series "Direct and Large Eddy Simulation XIII".
+
 * C. Mimeau, G.-H Cottet and I. Mortazavi. A Hybrid Vortex Method for the Simulation of 3D Incompressible Flows. ICCS 2019 International Conference on Computational Science, Faro, Portugal, 12-14 June 2019, published in Lecture Notes in Computer Science book series (LNCS, volume 11539), doi: 10.1007/978-3-030-22747-0_46.  
 
 * C. Mimeau, G.-H Cottet and I. Mortazavi. An artificial viscosity model for 3D simulations with Vortex Methods. ICCFD10 Tenth International Conference on Computational Fluid Dynamics, Barcelona, Spain, 9-13 July 2018.
@@ -53,6 +58,9 @@ layout: default
 
 ## Talks in conferences and seminars (without review commitee)<a name="talks"></a>
 
+* Invited speaker for a seminar in Laboratoire Jean Kuntzmann (LJK), France, 1st June 2023.  
+* Invited speaker for a seminar in Institut de Mathématiques de Bordeaux (IMB), France, 10 November 2022.  
+* Invited speaker for a seminar in Prof. Chatelain's research team at Université Catholique de Louvain (UCL), Belgium, 21-23 October 2021.  
 * Invited speaker for a seminar in Laboratoire de Mathématique Appliquées de Pau (LMAP), France, 12-14 February 2020. 
 * GDR Flow separation control, Paris, France, 20-21 November 2019.
 * Invited speaker for a seminar in Prof. Chatelain's research team at Université Catholique de Louvain (UCL), Belgium, 19-21 February 2017. 
