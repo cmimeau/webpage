@@ -13,6 +13,10 @@ layout: default
 
 ### International journals 
 
+* M. de Crouy-Chanel, C. Mimeau, I. Mortazavi, A. Mariotti, M. V. Salvetti. Large-Eddy Simulations with remeshed Vortex methods: An Assessment and Calibration of Subgrid-
+Scale Models. _Computers and Fluids_, 2024, Vol 277, 106287, [doi:10.1016/j.compfluid.2024.106287](https://doi.org/10.1016/j.compfluid.2024.106287).  
+[[pdf HAL]](https://hal.science/hal-04582176v1), [[Bibtex ref]](https://hal.science/hal-04582176v1/bibtex)
+
 * C. Mimeau, S. Marié, L. Roussel and I. Mortazavi. Wake prediction in 3D porous-fluid flows : a numerical study using a Brinkman penalization LBM approach. _Flow, Turbulence and Combustion_, 2023, doi:[0.1007/s10494-023-00471-w](https://doi.org/10.1007/s10494-023-00471-w).   
 [[Online free version]](https://rdcu.be/dkCxP)
 
