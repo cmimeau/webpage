@@ -13,6 +13,8 @@ layout: default
 
 ### International journals 
 
+* R. Frantz, C. Mimeau, M. Salihoglu, J.-C. Loiseau, J.-C. Robinet. Bifurcation sequence in the wakes of a sphere and a cube. _J. Fluid Mech._, 2025, Vol 1018, A30, [doi:10.1017/jfm.2025.10469](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/bifurcation-sequence-in-the-wakes-of-a-sphere-and-a-cube/FD3454216F8CDCD9F6CCDA3ECCB78EBA#article).  
+
 * M. de Crouy-Chanel, C. Mimeau, I. Mortazavi, A. Mariotti, M. V. Salvetti. Large-Eddy Simulations with remeshed Vortex methods: An Assessment and Calibration of Subgrid-
 Scale Models. _Computers and Fluids_, 2024, Vol 277, 106287, [doi:10.1016/j.compfluid.2024.106287](https://doi.org/10.1016/j.compfluid.2024.106287).  
 [[pdf HAL]](https://hal.science/hal-04582176v1), [[Bibtex ref]](https://hal.science/hal-04582176v1/bibtex)
