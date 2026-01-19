@@ -19,7 +19,7 @@ C. Mimeau, Conception et mise en oeuvre de méthodes vortex hybrides-frontières
 ## Habilitation to conduct researches (HDR)<a name="hdr"></a>
 
 C. Mimeau, Particle methods and Simulations of incompressible flows around solid and porous bluff bodies, _HDR thesis_, Conservatoire National des Arts et Métiers, Paris, France.  
-[[pdf]](assets/images/hdr_manuscrit_MIMEAU_Chloe.pdf).
+[[pdf]](https://cnambox.cnam.fr/drop/f/3082ad487b/).
 
 ## Publications (with review commitee)<a name="articles"></a>
 
