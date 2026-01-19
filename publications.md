@@ -3,11 +3,23 @@ layout: default
 ---
 
 **Summary**  
+[PhD thesis](#phd)  
+[HDR](#hdr)
 [Publications](#articles)  
 [Talks in conferences and seminars](#talks)  
-[PhD thesis](#phd)  
+
 
 [**← back to home page**](./)
+
+## PhD thesis<a name="phd"></a>
+
+C. Mimeau, Conception et mise en oeuvre de méthodes vortex hybrides-frontières immergées pour des milieux solides-fluides-poreux. Application au contrôle passif d'écoulements, _PhD thesis_, University of Grenoble-Alpes, France.  
+[[pdf HAL]](https://tel.archives-ouvertes.fr/tel-01178939/document), [[Bibtex ref]](https://hal.archives-ouvertes.fr/tel-01178939v1/bibtex).
+
+## Habilitation to conduct researches (HDR)<a name="hdr"></a>
+
+C. Mimeau, Particle methods and Simulations of incompressible flows around solid and porous bluff bodies, _HDR thesis_, Conservatoire National des Arts et Métiers, Paris, France.  
+[[pdf]](assets/images/hdr_manuscrit_MIMEAU_Chloe.pdf).
 
 ## Publications (with review commitee)<a name="articles"></a>
 
@@ -64,8 +76,13 @@ Scale Models. _Computers and Fluids_, 2024, Vol 277, 106287, [doi:10.1016/j.comp
 
 ## Talks in conferences and seminars (without review commitee)<a name="talks"></a>
 
+* Invited speaker for a seminar in Laboratoire Interdisciplinaire des Sciences du Numérique (LISN), France, September 2025.
+* EUROMECH, Coherent structures and instabilities in transitional and turbulent wall-bounded flows, Bari, Italy, 15–17 September 2025.  
+* Invited speaker for a seminar in Laboratoire de Mécanique des Fluides et d'Acoustique (LMFA), France, February 2025.
+* IUTAM Symposium on Laminar-Turbulent transition, Nagano, Japan, 2–6 September 2024.
 * Invited speaker for a seminar in Laboratoire Jean Kuntzmann (LJK), France, 1st June 2023.  
-* Invited speaker for a seminar in Institut de Mathématiques de Bordeaux (IMB), France, 10 November 2022.  
+* Invited speaker for a seminar in Institut de Mathématiques de Bordeaux (IMB), France, 10 November 2022.
+* DLES13, Direct and Large-Eddy Simulation, Udine, Italy, 26-29 October 2022. 
 * Invited speaker for a seminar in Prof. Chatelain's research team at Université Catholique de Louvain (UCL), Belgium, 21-23 October 2021.  
 * Invited speaker for a seminar in Laboratoire de Mathématique Appliquées de Pau (LMAP), France, 12-14 February 2020. 
 * GDR Flow separation control, Paris, France, 20-21 November 2019.
@@ -77,11 +94,5 @@ Scale Models. _Computers and Fluids_, 2024, Vol 277, 106287, [doi:10.1016/j.comp
 * Workshop on Fluid Structure Interactions, Grenoble, France, 24-25 November 2014.  
 * Workshop on Cartesian grid, Level-Set & Immersed boundary, Bordeaux, France, 25-27 March 2014.  
 * EUROMECH / ERCOFTAC Colloquium 549, Immersed Boundary Methods: Current Status and Future Research Directions, Leiden, The Netherlands, 17-19 June 2013.
-
-## PhD thesis<a name="phd"></a>
-
-C. Mimeau, Conception et mise en oeuvre de méthodes vortex hybrides-frontières immergées pour des milieux solides-fluides-poreux. Application au contrôle passif d'écoulements, _PhD thesis_, University of Grenoble-Alpes, France.  
-[[pdf HAL]](https://tel.archives-ouvertes.fr/tel-01178939/document), [[Bibtex ref]](https://hal.archives-ouvertes.fr/tel-01178939v1/bibtex).
-
 
 [**← back to home page**](./)
