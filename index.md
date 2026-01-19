@@ -4,7 +4,7 @@ layout: default
 
 ![Cnam](/assets/images/cnam.jpg)
 
-Since 09/2016 I am an Assistant Professor in mathematics applied to computational fluid dynamics at [**CNAM Paris**](http://maths.cnam.fr/) (Conservatoire National des Arts et Métiers) in the [**M2N**](http://maths.cnam.fr/M2N/) Laboratory.  
+Since 09/2016 I am an Associate Professor (Maître de Conférences) in mathematics applied to computational fluid dynamics at [**CNAM Paris**](http://maths.cnam.fr/) (Conservatoire National des Arts et Métiers) in the [**M2N**](http://maths.cnam.fr/M2N/) Laboratory.  
 
 ## Research interests in brief
 * incompressible fluid dynamics
@@ -19,13 +19,14 @@ Cnam departments of Mathematics and IT propose a new certificate :
 [**Intelligence Artificielle et Calcul Scientifique**](assets/images/CS_IA_et_calcul_scientifique_flyer_A5.pdf).  
 This program is pioneer in France. Click [here](https://formation.cnam.fr/rechercher-par-discipline/certificat-de-specialisation-intelligence-artificielle-et-calcul-scientifique-1294304.kjsp) for more details on Cnam's website.
 
-## Education
+## Education and academic position
 
 ### ♦ From 2016
-Assistant Professor at CNAM Paris.
+Maître de Conférences at CNAM Paris.  
+HDR obtained in December 2025.
 
 ### ♦ 2015-2016
-ATER at ENSAM Paris, in [Dynfluid](http://dynfluid.ensam.eu/) laboratory with [Jean-Christophe Robinet](http://jch.robinet.pagesperso-orange.fr/).
+ATER at CNAM Paris, in [Dynfluid](http://dynfluid.ensam.eu/) laboratory with [Jean-Christophe Robinet](http://jch.robinet.pagesperso-orange.fr/).
 
 ### ♦ 2011-2015
 PhD in Applied Mathematics at University of Grenoble-Alpes, in [LJK](https://ljk.imag.fr/) laboratory with [Georges-Henri Cottet](https://ljk.imag.fr/membres/Georges-Henri.Cottet/) and [Iraj Mortazavi](https://www.researchgate.net/profile/Iraj_Mortazavi).  
