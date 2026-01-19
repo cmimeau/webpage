@@ -19,7 +19,7 @@ layout: default
 Scale Models. _Computers and Fluids_, 2024, Vol 277, 106287, [doi:10.1016/j.compfluid.2024.106287](https://doi.org/10.1016/j.compfluid.2024.106287).  
 [[pdf HAL]](https://hal.science/hal-04582176v1), [[Bibtex ref]](https://hal.science/hal-04582176v1/bibtex)
 
-* C. Mimeau, S. Marié, L. Roussel and I. Mortazavi. Wake prediction in 3D porous-fluid flows : a numerical study using a Brinkman penalization LBM approach. _Flow, Turbulence and Combustion_, 2023, doi:[0.1007/s10494-023-00471-w](https://doi.org/10.1007/s10494-023-00471-w).   
+* C. Mimeau, S. Marié, L. Roussel and I. Mortazavi. Wake prediction in 3D porous-fluid flows : a numerical study using a Brinkman penalization LBM approach. _Flow, Turbulence and Combustion_, 2023, doi:[10.1007/s10494-023-00471-w](https://doi.org/10.1007/s10494-023-00471-w).   
 [[Online free version]](https://rdcu.be/dkCxP)
 
 * C. Mimeau, S. Marié and I. Mortazavi. A comparison of semi-Lagrangian Vortex method and Lattice Boltzmann method for incompressible flows. _Comp & Fluids_, 2021, 224, 104946.   
