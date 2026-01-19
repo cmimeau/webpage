@@ -4,7 +4,7 @@ layout: default
 
 **Summary**  
 [PhD thesis](#phd)  
-[HDR](#hdr)
+[HDR](#hdr)  
 [Publications](#articles)  
 [Talks in conferences and seminars](#talks)  
 
