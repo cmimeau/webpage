@@ -23,7 +23,7 @@ This program is pioneer in France. Click [here](https://formation.cnam.fr/recher
 
 ### ♦ From 2016
 Maître de Conférences at CNAM Paris.  
-[HDR] obtained in December 2025.
+[HDR](publications.md) obtained in December 2025.
 
 ### ♦ 2015-2016
 ATER at CNAM Paris, in [Dynfluid](http://dynfluid.ensam.eu/) laboratory with [Jean-Christophe Robinet](http://jch.robinet.pagesperso-orange.fr/).
