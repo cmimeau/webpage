@@ -25,6 +25,9 @@ C. Mimeau, Particle methods and Simulations of incompressible flows around solid
 
 ### International journals 
 
+* M. de Crouy-Chanel, C. Mimeau, I. Mortazavi, A. Mariotti, M. V. Salvetti. DNS and LES of the Flow Over Periodic Hills with a Remeshed Vortex Method. _Flow, Turbulence and Combustion_, 2026, Vol 117 (7), [doi: 10.1007/s10494-026-00767-7](https://link.springer.com/article/10.1007/s10494-026-00767-7).   
+[[Online free version]](https://rdcu.be/fqCqj)
+
 * R. Frantz, C. Mimeau, M. Salihoglu, J.-C. Loiseau, J.-C. Robinet. Bifurcation sequence in the wakes of a sphere and a cube. _J. Fluid Mech._, 2025, Vol 1018, A30, [doi:10.1017/jfm.2025.10469](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/bifurcation-sequence-in-the-wakes-of-a-sphere-and-a-cube/FD3454216F8CDCD9F6CCDA3ECCB78EBA#article).  
 
 * M. de Crouy-Chanel, C. Mimeau, I. Mortazavi, A. Mariotti, M. V. Salvetti. Large-Eddy Simulations with remeshed Vortex methods: An Assessment and Calibration of Subgrid-
