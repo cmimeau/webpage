@@ -79,6 +79,8 @@ Scale Models. _Computers and Fluids_, 2024, Vol 277, 106287, [doi:10.1016/j.comp
 
 ## Talks in conferences and seminars (without review commitee)<a name="talks"></a>
 
+* Invited speaker for a mini-symposium in the ﻿﻿XVIII Zaragoza-Pau Conference on Mathematics and its Applications, Spain, Jaca, June 2026.
+* Invited speaker for a seminar in Institut de Recherche Mathématique Avancée (IRMA), INRIA Strasbourg, France, April 2026.
 * Invited speaker for a seminar in Laboratoire Interdisciplinaire des Sciences du Numérique (LISN), France, September 2025.
 * EUROMECH, Coherent structures and instabilities in transitional and turbulent wall-bounded flows, Bari, Italy, 15–17 September 2025.  
 * Invited speaker for a seminar in Laboratoire de Mécanique des Fluides et d'Acoustique (LMFA), France, February 2025.
