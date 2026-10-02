@@ -25,6 +25,9 @@ C. Mimeau, Particle methods and Simulations of incompressible flows around solid
 
 ### International journals 
 
+* J.-M. Etancelin, J.-B. Keck, F. Pérignon, C. Mimeau, N. Grima, C. Picard, G.-H. Cottet. HySoP: Hybrid Simulation with Particles. _Journal of Open Source Software_, 2026, 11(126), 8883, [doi.org/10.21105/joss.08883](https://doi.org/10.21105/joss.08883).   
+[[Online free version]](https://doi.org/10.21105/joss.08883)
+
 * M. de Crouy-Chanel, C. Mimeau, I. Mortazavi, A. Mariotti, M. V. Salvetti. DNS and LES of the Flow Over Periodic Hills with a Remeshed Vortex Method. _Flow, Turbulence and Combustion_, 2026, Vol 117 (7), [doi: 10.1007/s10494-026-00767-7](https://link.springer.com/article/10.1007/s10494-026-00767-7).   
 [[Online free version]](https://rdcu.be/fqCqj)
 
