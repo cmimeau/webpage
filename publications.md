@@ -25,6 +25,8 @@ C. Mimeau, Particle methods and Simulations of incompressible flows around solid
 
 ### International journals 
 
+* L. Roussel, C. Mimeau, S. Marié. A Brinkman penalization Lattice Boltzmann simulation of the flow behind a backward-facing step with porous insert. _Computers and Fluids_, 2026, Vol 322, 107327, [doi.org/10.1016/j.compfluid.2026.107327](https://doi.org/10.1016/j.compfluid.2026.107327).   
+
 * J.-M. Etancelin, J.-B. Keck, F. Pérignon, C. Mimeau, N. Grima, C. Picard, G.-H. Cottet. HySoP: Hybrid Simulation with Particles. _Journal of Open Source Software_, 2026, 11(126), 8883, [doi.org/10.21105/joss.08883](https://doi.org/10.21105/joss.08883).   
 [[Online free version]](https://doi.org/10.21105/joss.08883)
 
